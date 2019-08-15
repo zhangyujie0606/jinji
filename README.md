@@ -7,6 +7,8 @@
 - Single header library interface librws.h with public methods
 - Thread safe
 - Send/receive logic in background thread
+- [text](https://192.168.168.36)
+-<https://192.168.168.36/>
 
 ### Example
 ##### Create and store websocket object handle
